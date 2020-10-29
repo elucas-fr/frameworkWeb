@@ -6,6 +6,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Metodos {
 
+	
+	//Abrir nevegador
 
 WebDriver driver;
 
